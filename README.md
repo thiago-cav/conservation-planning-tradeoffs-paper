@@ -1,11 +1,11 @@
-# Trade-offs in Spatial Conservation Planning
+# Trade-offs in spatial conservation planning
 
 This repository provides example data and R code to accompany the study:
 
 **Title**: *Evaluating trade-offs between species targets and average coverage in spatial conservation planning*  
 **Journal**: *Biological Conservation*  
 **Authors**: Thiago Cavalcante, Heini Kujala, Elina A. Virtanen, Louise O'Connor, Pauli Lehtinen, and Atte Moilanen  
-**DOI**: [Insert DOI link here]
+**DOI**: []
 
 ---
 
@@ -31,4 +31,3 @@ Mauri, A., Girardello, M., Strona, G., Beck, P. S., Forzieri, G., Caudullo, G., 
 
 ---
 
-This repository is intended as a reproducible example for exploring spatial conservation trade-offs between species-based targets and average coverage approaches.
