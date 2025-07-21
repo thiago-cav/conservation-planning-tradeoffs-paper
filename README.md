@@ -5,7 +5,7 @@ This repository provides example data and R code to accompany the study:
 **Title**: *Evaluating trade-offs between species targets and average coverage in spatial conservation planning*  
 **Journal**: *Biological Conservation*  
 **Authors**: Thiago Cavalcante, Heini Kujala, Elina A. Virtanen, Louise O'Connor, Pauli Lehtinen, and Atte Moilanen  
-**DOI**: []
+**DOI**: [10.1016/j.biocon.2025.111368](https://doi.org/10.1016/j.biocon.2025.111368)
 
 ---
 
